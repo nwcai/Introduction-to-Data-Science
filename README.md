@@ -4,7 +4,8 @@
 Cancer_Data.csv เป็นไฟล์ข้อมูลที่ใช้ในการเทรนโมเดล \
 cancer-Markdown.ipynb เป็นไฟล์ที่ประกอบไปด้วย Data Visualization และ Model
 ## ไฟล์ App
-ในโฟลเดอร์นี้จะประกอบไปด้วย3ไฟล์คือ Cancer-Cell-Diagnosis-Predictor.ipynb,model.pkl,scaler.pkl \
+ในโฟลเดอร์นี้จะประกอบไปด้วย4ไฟล์คือ Cancer-Cell-Diagnosis-Predictor.ipynb,model.pkl,scaler.pkl,Patient_Cancer_Data.csv \
 Cancer-Cell-Diagnosis-Predictor.ipynb เป็นไฟล์ที่ทำแอปที่จะทำนายว่าเป็นเซลล์มะเร็งหรือไม่ \
 model.pkl เป็นไฟล์ที่ได้จากการทำโมเดล \
 scaler.pkl เป็นไฟล์ของscalerที่ใช้ตอนสร้างโมเดล ใช้เพื่อปรับข้อมูลที่ใช้ในแอป
+Patient_Cancer_Data.csv เป็นไฟล์ที่ใช้กรอกข้อมูลเพื่อนำไปใช้กับแอป
